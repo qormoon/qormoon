@@ -1,6 +1,6 @@
 ## 백지현 Baek Jihyun
 
-## 👩🏻‍💻About Me
+## 👩🏻‍💻 About Me
 
 - Sookmyung Women's University, Seoul, Korea (IT Engineering)
 - Currently studying Backend
