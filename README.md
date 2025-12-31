@@ -1,4 +1,21 @@
-## Hi there 👋
+## 백지현 Baek Jihyun
+
+## 👩🏻‍💻About Me
+
+- Sookmyung Women's University, Seoul, Korea (IT Engineering)
+- Currently studying Backend
+
+## Tech Stack 🚀
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,aws&theme=light" />
+</a><br/>
+
+## Tools 🛠
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=idea,vscode,github,githubactions,docker,discord,notion,figma&theme=light" />
+</a><br/>
 
 <!--
 **qormoon/qormoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
