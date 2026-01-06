@@ -8,6 +8,18 @@
 ## Used Languages ✏️
 [![Top Langs](https://github-readme-stats-amber-tau-13.vercel.app/api/top-langs/?username=qormoon&layout=compact&hide=purebasic,html,css,scss,jupyter%20notebook&langs_count=6&theme=tokyonight&include_all_commits=true&exclude_repo=github-readme-stats,codingStudy2,codingStudy,chaesmos-django,PS)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🧑‍💻 Experience
+
+| 활동명 | 기간 |
+| :---: | :---: |
+| **그로스 엔지니어 직무 인턴** | 2025.09 -  2025.12|
+| **숙명여자대학교 커뮤니티 ‘스노로즈’** | 2025.02 -  |
+| **대학생 연합 IT 동아리 잇타(IT’s TIME)** | 2024.09 -  2025.07 |
+| **IT 연합 사이드 프로젝트 동아리 UMC** | 2024.03 -  2024.08 |
+| **4차 산업혁명 연구 동아리 TAVE** | 2024.03 - 2024.07 |
+| **웹 개발 동아리 피로그래밍** | 2024.07 - 2024.08 |
+| **대학생 연합 주식 경제 동아리 위닝펀드** | 2023.03 - 2023.06 |
+
 ## Projects 🌱
 
 | 프로젝트명 | 기간 |
